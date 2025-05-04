@@ -1,1 +1,1 @@
-This is a read me
+The 3DR converter executable file takes a csv file, containing cogo point data with point numbers in the first column and raw description in the fifth column, as input data. The converter then switchs the data in the first column with the fifth column, and then outputs a csv file containg cogo point data, with raw description in the first column and point numbers in the fifth column.
